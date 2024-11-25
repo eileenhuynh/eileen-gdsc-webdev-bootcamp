@@ -1,0 +1,23 @@
+.sub-font {
+ font-family: "Rubik", sans-serif;
+ font-size: 23px;
+ color:  #4d89cd;
+}
+
+p {
+ font-weight: 400;
+ font-family: "Quando", serif;
+ color: grey; 
+ margin: 1px 10px 10px 10px; 
+
+}
+.text-list {
+ text-align: left;
+ margin: 10px 10px 10px 10px;
+}
+
+.text-left {
+    text-align: left;  
+   /* top right bottom left */
+   margin: 80px 80px 30px 700px;
+ }
